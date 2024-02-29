@@ -58,7 +58,7 @@ function MM_swapImage() { //v3.0
 <div align="center">
   <table width="1600" border="1" cellspacing="0" cellpadding="0">
     <tr>
-      <td width="1600" height="400"><img src="../Header/head.png" width="100%" height="400" /></td>
+      <td width="1600" height="400"><img src="Header/head.png" width="100%" height="400" /></td>
     </tr>
     <tr>
       <td height="1400"><table width="1600" border="0" cellspacing="0" cellpadding="0">
